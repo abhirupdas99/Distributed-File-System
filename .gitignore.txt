@@ -1,0 +1,7 @@
+*.o
+*.out
+*.tar
+*.zip
+*.exe
+*.log
+*.swp
